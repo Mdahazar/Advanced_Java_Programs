@@ -236,13 +236,12 @@ results respectively<br>
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp9-SQL%2BJDBC/9C/9c_viewFilteredReport.jpeg)<br>
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
 follows using HTML and JSP to get the field and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp9-SQL%2BJDBC/9D/9d_viewFilteredReport.jpeg)<br>
 
 
 
