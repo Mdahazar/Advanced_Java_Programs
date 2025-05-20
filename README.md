@@ -226,7 +226,7 @@ HTML and JSP to get the field and display the results respectively<br>
 9b. Read all the existing records from the table coffee which is from the database test and query
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
 results respectively<br>
-[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp9-SQL%2BJDBC/9B/9b_query.jpeg)<br>
+[Output Screenshot](https://github.com/Mdahazar/Advanced_Java_Programs/blob/main/Exp9-SQL%2BJDBC/9B/9b_MysqlQuery.jpeg)<br>
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
